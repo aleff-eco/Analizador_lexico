@@ -1,0 +1,4 @@
+VAR
+IF
+FOR
+DEF
