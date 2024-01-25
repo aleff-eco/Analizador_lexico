@@ -1,4 +1,0 @@
-VAR
-IF
-FOR
-DEF
